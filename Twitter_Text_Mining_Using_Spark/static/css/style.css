@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f1f4f9;
+    color: #333;
+}
+
+/* Sidebar */
+
+.sidebar {
+    width: 250px;
+    height: 100vh;
+    background: #172554;
+    position: fixed;
+    padding: 25px 20px;
+    color: white;
+}
+
+.sidebar h2 {
+    font-size: 23px;
+    margin-bottom: 25px;
+}
+
+.sidebar a {
+    display: block;
+    color: #dbeafe;
+    text-decoration: none;
+    padding: 15px 10px;
+    border-radius: 8px;
+    margin-bottom: 8px;
+}
+
+.sidebar a:hover {
+    background: #2563eb;
+    color: white;
+}
+
+/* Main Content */
+
+.main-content {
+    margin-left: 250px;
+    padding: 30px;
+}
+
+.header {
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.05);
+}
+
+.header h1 {
+    font-size: 28px;
+    color: #172554;
+}
+
+.header p {
+    color: #64748b;
+    margin-top: 8px;
+}
+
+/* Statistics Cards */
+
+.stat-card {
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    margin-top: 15px;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.05);
+    border-left: 5px solid #2563eb;
+}
+
+.stat-card h5 {
+    color: #64748b;
+    font-size: 15px;
+}
+
+.stat-card h2 {
+    color: #172554;
+    font-size: 30px;
+    margin-top: 12px;
+}
+
+/* Chart Cards */
+
+.chart-card {
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    margin-top: 20px;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.05);
+}
+
+.chart-card h3 {
+    color: #172554;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+/* Tables */
+
+.table {
+    margin-top: 15px;
+}
+
+.table th {
+    background: #172554;
+    color: white;
+}
+
+.table td, .table th {
+    padding: 12px;
+}
+
+/* Responsive Design */
+
+@media (max-width: 768px) {
+
+    .sidebar {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+
+    .main-content {
+        margin-left: 0;
+        padding: 15px;
+    }
+
+}
+/* Dashboard Footer */
+
+.dashboard-footer {
+    margin-top: 35px;
+    padding: 25px;
+    text-align: center;
+    background: #172554;
+    color: white;
+    border-radius: 12px;
+}
+
+.dashboard-footer h5 {
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+
+.dashboard-footer p {
+    font-size: 14px;
+    color: #cbd5e1;
+    margin-bottom: 8px;
+}

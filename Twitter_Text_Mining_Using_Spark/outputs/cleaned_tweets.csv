@@ -1,0 +1,46 @@
+tweet_id,text,clean_text,sentiment
+1,"I love this new phone, the camera is amazing",i love this new phone the camera is amazing,positive
+2,The service was excellent and helpful,the service was excellent and helpful,positive
+3,"Amazing experience, very happy with the result",amazing experience very happy with the result,positive
+4,This app is useful and easy to use,this app is useful and easy to use,positive
+5,"Great work by the team, congratulations",great work by the team congratulations,positive
+6,I am excited about the new technology,i am excited about the new technology,positive
+7,The movie was wonderful and entertaining,the movie was wonderful and entertaining,positive
+8,Best customer support I have received,best customer support i have received,positive
+9,The update is fantastic and works smoothly,the update is fantastic and works smoothly,positive
+10,Feeling happy and grateful today,feeling happy and grateful today,positive
+11,The delivery was fast and the product is great,the delivery was fast and the product is great,positive
+12,Beautiful design and excellent performance,beautiful design and excellent performance,positive
+13,"I enjoyed the event, it was awesome",i enjoyed the event it was awesome,positive
+14,"This is a brilliant idea, well done",this is a brilliant idea well done,positive
+15,The results are impressive and encouraging,the results are impressive and encouraging,positive
+16,"I dislike this update, it keeps crashing",i dislike this update it keeps crashing,negative
+17,Very poor service and disappointing experience,very poor service and disappointing experience,negative
+18,The app is slow and full of bugs,the app is slow and full of bugs,negative
+19,I am unhappy with the quality,i am unhappy with the quality,negative
+20,"Terrible customer support, no response",terrible customer support no response,negative
+21,This product is bad and overpriced,this product is bad and overpriced,negative
+22,The movie was boring and too long,the movie was boring and too long,negative
+23,"Worst delivery experience, package was damaged",worst delivery experience package was damaged,negative
+24,The new feature is confusing and frustrating,the new feature is confusing and frustrating,negative
+25,"I hate the new design, it is difficult to use",i hate the new design it is difficult to use,negative
+26,This service is awful and unreliable,this service is awful and unreliable,negative
+27,Very disappointed with the result,very disappointed with the result,negative
+28,"The website keeps failing, waste of time",the website keeps failing waste of time,negative
+29,Nothing works properly after the update,nothing works properly after the update,negative
+30,The event was badly organized,the event was badly organized,negative
+31,The weather is cloudy today,the weather is cloudy today,neutral
+32,The meeting starts at ten in the morning,the meeting starts at ten in the morning,neutral
+33,A new technology conference is happening this week,a new technology conference is happening this week,neutral
+34,The train arrived at the station,the train arrived at the station,neutral
+35,I am reading an article about data science,i am reading an article about data science,neutral
+36,The company announced a product launch,the company announced a product launch,neutral
+37,Today is Monday and classes are scheduled,today is monday and classes are scheduled,neutral
+38,The package contains three items,the package contains three items,neutral
+39,The team shared its monthly report,the team shared its monthly report,neutral
+40,A software update was released yesterday,a software update was released yesterday,neutral
+41,The library is open until six,the library is open until six,neutral
+42,The match will begin this evening,the match will begin this evening,neutral
+43,The project uses Python and Spark,the project uses python and spark,neutral
+44,There are several topics in the discussion,there are several topics in the discussion,neutral
+45,The report includes charts and tables,the report includes charts and tables,neutral
